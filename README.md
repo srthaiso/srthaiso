@@ -106,7 +106,7 @@ Concluí o programa **AWS re/Start** pela Escola da Nuvem e conquistei a certifi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=srthaiso&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=srthaiso&show_icons=true&theme=nightowl&include_all_commits=true&locale=pt-br" 
   />
 
 <br>
