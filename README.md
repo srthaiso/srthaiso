@@ -100,11 +100,6 @@ Concluí o programa **AWS re/Start** pela Escola da Nuvem e conquistei a certifi
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
