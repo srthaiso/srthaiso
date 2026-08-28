@@ -96,19 +96,6 @@ Concluí o programa **AWS re/Start** pela Escola da Nuvem e conquistei a certifi
 - 🚀 Contribuir com projetos open source e automações
 - 📑 Compartilhar scripts, ferramentas e conteúdos técnicos úteis para a comunidade
 
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=srthaiso&show_icons=true&theme=nightowl&include_all_commits=true&locale=pt-br" 
-  />
-
 <br>
 <br>
 <br>
